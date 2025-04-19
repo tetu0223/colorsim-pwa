@@ -1,0 +1,8 @@
+{
+  "name": "ColorSim PWA",
+  "short_name": "ColorSim",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "icons": []
+}
